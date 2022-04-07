@@ -1,0 +1,15 @@
+{
+  "name": "sanctis-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Sanctis-Game/sanctis-docs",
+  "author": "Dodecahedr0x <hexadecifish@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gitbook build",
+    "serve": "gitbook serve"
+  },
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
